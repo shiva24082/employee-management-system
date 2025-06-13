@@ -1,28 +1,31 @@
 # Employee Management System
 
-![Preview] 
-(./screenshots/ss1.png)
-(./screenshots/ss2.png)
-(./screenshots/ss3.png)
-(./screenshots/ss4.png)
-(./screenshots/ss5.png)
-(./screenshots/ss6.png)
-(./screenshots/ss7.png)
-(./screenshots/ss8.png)
-(./screenshots/ss9.png)
-(./screenshots/ss10.png)
-(./screenshots/ss11.png)
-(./screenshots/ss12.png)
-(./screenshots/ss13.png)
-(./screenshots/ss14.png)
-(./screenshots/ss15.png)
-(./screenshots/ss16.png)
-(./screenshots/ss17.png)
-(./screenshots/ss18.png)
-(./screenshots/ss19.png)
-(./screenshots/ss20.png)
-(./screenshots/ss21.png)
-(./screenshots/ss22.png)
+## 📸 Screenshot Gallery
+<div align="center"> 
+ <img src="./screenshots/ss1.png" alt="ss1" width="45%">
+ <img src="./screenshots/ss2.png" alt="ss2" width="45%">
+ <img src="./screenshots/ss3.png" alt="ss3" width="45%">
+ <img src="./screenshots/ss4.png" alt="ss4" width="45%">
+ <img src="./screenshots/ss5.png" alt="ss5" width="45%">
+ <img src="./screenshots/ss6.png" alt="ss6" width="45%">
+ <img src="./screenshots/ss7.png" alt="ss7" width="45%">
+ <img src="./screenshots/ss8.png" alt="ss8" width="45%">
+ <img src="./screenshots/ss9.png" alt="ss9" width="45%">
+ <img src="./screenshots/ss10.png" alt="ss10" width="45%">
+ <img src="./screenshots/ss11.png" alt="ss11" width="45%">
+ <img src="./screenshots/ss12.png" alt="ss12" width="45%">
+ <img src="./screenshots/ss13.png" alt="ss13" width="45%">
+ <img src="./screenshots/ss14.png" alt="ss14" width="45%">
+ <img src="./screenshots/ss15.png" alt="ss15" width="45%">
+ <img src="./screenshots/ss16.png" alt="ss16" width="45%">
+ <img src="./screenshots/ss17.png" alt="ss17" width="45%">
+ <img src="./screenshots/ss18.png" alt="ss18" width="45%">
+ <img src="./screenshots/ss19.png" alt="ss19" width="45%">
+ <img src="./screenshots/ss20.png" alt="ss20" width="45%">
+ <img src="./screenshots/ss21.png" alt="ss21" width="45%">
+ <img src="./screenshots/ss22.png" alt="ss22" width="45%">
+</div>
+
 
 ## ✨ Key Features
 
